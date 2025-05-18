@@ -520,4 +520,4 @@ Snyk 有两款产品对确保 npm 包代码及其依赖项的安全性特别有�
 
 试试 Snyk 免费的 [JavaScript 代码检查器](https://snyk.io/code-checker/javascript/)，查找并修复代码中的漏洞。
 
-[原文](https://snyk.io/blog/best-practices-create-modern-npm-package/)
+[英文原文](https://snyk.io/blog/best-practices-create-modern-npm-package/)
