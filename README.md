@@ -2,8 +2,10 @@
 
 为帮助技术爱好者跨越语言障碍，快速吸收优质知识，我将为你打造这个《好文翻译》专栏。它专注翻译海外前沿技术文章，并用 AI 提炼核心内容，让复杂技术知识变得通俗易懂。
 
-
 ## 文章列表
+
+[译：一位资深前端开发者的 37 条建议](https://github.com/ikonan/frontend-news/blob/main/archive/%E8%AF%91%EF%BC%9A%E4%B8%80%E4%BD%8D%E8%B5%84%E6%B7%B1%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91%E8%80%85%E7%9A%84%2037%20%E6%9D%A1%E5%BB%BA%E8%AE%AE.md)
+
 [译：最佳实践：创建一个安全的现代 npm 包](https://github.com/ikonan/frontend-news/blob/main/archive/%E8%AF%91%EF%BC%9A%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5%EF%BC%9A%E5%88%9B%E5%BB%BA%E4%B8%80%E4%B8%AA%E5%AE%89%E5%85%A8%E7%9A%84%E7%8E%B0%E4%BB%A3%20npm%20%E5%8C%85.md)
 
 [译：我觉得生成器的易用性正在逐渐吸引我](https://github.com/ikonan/frontend-news/blob/main/archive/%E8%AF%91%EF%BC%9A%E6%88%91%E8%A7%89%E5%BE%97%E7%94%9F%E6%88%90%E5%99%A8%E7%9A%84%E6%98%93%E7%94%A8%E6%80%A7%E6%AD%A3%E5%9C%A8%E9%80%90%E6%B8%90%E5%90%B8%E5%BC%95%E6%88%91.md)
