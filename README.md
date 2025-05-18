@@ -4,6 +4,8 @@
 
 ## 文章列表
 
+[译：别这么做（除非你想要糟糕的前端代码）](https://github.com/ikonan/frontend-news/blob/main/archive/%E8%AF%91%EF%BC%9A%E5%88%AB%E8%BF%99%E4%B9%88%E5%81%9A%EF%BC%88%E9%99%A4%E9%9D%9E%E4%BD%A0%E6%83%B3%E8%A6%81%E7%B3%9F%E7%B3%95%E7%9A%84%E5%89%8D%E7%AB%AF%E4%BB%A3%E7%A0%81%EF%BC%89.md)
+
 [译：一位资深前端开发者的 37 条建议](https://github.com/ikonan/frontend-news/blob/main/archive/%E8%AF%91%EF%BC%9A%E4%B8%80%E4%BD%8D%E8%B5%84%E6%B7%B1%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91%E8%80%85%E7%9A%84%2037%20%E6%9D%A1%E5%BB%BA%E8%AE%AE.md)
 
 [译：最佳实践：创建一个安全的现代 npm 包](https://github.com/ikonan/frontend-news/blob/main/archive/%E8%AF%91%EF%BC%9A%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5%EF%BC%9A%E5%88%9B%E5%BB%BA%E4%B8%80%E4%B8%AA%E5%AE%89%E5%85%A8%E7%9A%84%E7%8E%B0%E4%BB%A3%20npm%20%E5%8C%85.md)
