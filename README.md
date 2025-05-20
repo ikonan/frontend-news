@@ -4,7 +4,9 @@
 
 ## 文章列表
 
-[译：整洁代码心理学—为何我们写出混乱的React组件](https://github.com/ikonan/frontend-news/blob/main/archive/%E8%AF%91%EF%BC%9A%E6%95%B4%E6%B4%81%E4%BB%A3%E7%A0%81%E5%BF%83%E7%90%86%E5%AD%A6%E2%80%94%E4%B8%BA%E4%BD%95%E6%88%91%E4%BB%AC%E5%86%99%E5%87%BA%E6%B7%B7%E4%B9%B1%E7%9A%84React%E7%BB%84%E4%BB%B6.md)
+[译：React 的 TypeScript 知识](https://github.com/ikonan/frontend-news/blob/main/archive/%E8%AF%91%EF%BC%9AReact%20%E7%9A%84%20TypeScript%20%E7%9F%A5%E8%AF%86.md)
+
+[译：整洁代码心理学—为何我们写出混乱的 React 组件](https://github.com/ikonan/frontend-news/blob/main/archive/%E8%AF%91%EF%BC%9A%E6%95%B4%E6%B4%81%E4%BB%A3%E7%A0%81%E5%BF%83%E7%90%86%E5%AD%A6%E2%80%94%E4%B8%BA%E4%BD%95%E6%88%91%E4%BB%AC%E5%86%99%E5%87%BA%E6%B7%B7%E4%B9%B1%E7%9A%84React%E7%BB%84%E4%BB%B6.md)
 
 [译：别这么做（除非你想要糟糕的前端代码）](https://github.com/ikonan/frontend-news/blob/main/archive/%E8%AF%91%EF%BC%9A%E5%88%AB%E8%BF%99%E4%B9%88%E5%81%9A%EF%BC%88%E9%99%A4%E9%9D%9E%E4%BD%A0%E6%83%B3%E8%A6%81%E7%B3%9F%E7%B3%95%E7%9A%84%E5%89%8D%E7%AB%AF%E4%BB%A3%E7%A0%81%EF%BC%89.md)
 
