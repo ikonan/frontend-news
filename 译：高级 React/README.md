@@ -11,3 +11,5 @@
 [第 4 章. 使用 render props 进行高级配置](./04.%E4%BD%BF%E7%94%A8%20render%20props%20%E8%BF%9B%E8%A1%8C%E9%AB%98%E7%BA%A7%E9%85%8D%E7%BD%AE.md)
 
 [第 5 章. 使用 useMemo、useCallback 和 React.memo 进行记忆化处理](./05.%E4%BD%BF%E7%94%A8%20useMemo%E3%80%81useCallback%20%E5%92%8C%20React.memo%20%E8%BF%9B%E8%A1%8C%E8%AE%B0%E5%BF%86%E5%8C%96%E5%A4%84%E7%90%86.md)
+
+[第 6 章. 深入探究差异比较和调和算法](./06.%E6%B7%B1%E5%85%A5%E6%8E%A2%E7%A9%B6%E5%B7%AE%E5%BC%82%E6%AF%94%E8%BE%83%E5%92%8C%E8%B0%83%E5%92%8C%E7%AE%97%E6%B3%95.md)
