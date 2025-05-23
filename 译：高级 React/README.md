@@ -23,3 +23,5 @@
 [第 10 章. React 中的闭包](./10.React%20%E4%B8%AD%E7%9A%84%E9%97%AD%E5%8C%85.md)
 
 [第 11 章. 使用 Ref 实现高级防抖和节流](./11.%E4%BD%BF%E7%94%A8%20Ref%20%E5%AE%9E%E7%8E%B0%E9%AB%98%E7%BA%A7%E9%98%B2%E6%8A%96%E5%92%8C%E8%8A%82%E6%B5%81.md)
+
+[第 12 章. 使用 useLayoutEffect 避免闪烁的用户界面](./12.%E4%BD%BF%E7%94%A8%20useLayoutEffect%20%E9%81%BF%E5%85%8D%E9%97%AA%E7%83%81%E7%9A%84%E7%94%A8%E6%88%B7%E7%95%8C%E9%9D%A2.md)
