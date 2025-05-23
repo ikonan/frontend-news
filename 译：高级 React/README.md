@@ -21,3 +21,5 @@
 [第 9 章. Refs：从存储数据到命令式 API](./09.Refs%EF%BC%9A%E4%BB%8E%E5%AD%98%E5%82%A8%E6%95%B0%E6%8D%AE%E5%88%B0%E5%91%BD%E4%BB%A4%E5%BC%8F%20API.md)
 
 [第 10 章. React 中的闭包](./10.React%20%E4%B8%AD%E7%9A%84%E9%97%AD%E5%8C%85.md)
+
+[第 11 章. 使用 Ref 实现高级防抖和节流](./11.%E4%BD%BF%E7%94%A8%20Ref%20%E5%AE%9E%E7%8E%B0%E9%AB%98%E7%BA%A7%E9%98%B2%E6%8A%96%E5%92%8C%E8%8A%82%E6%B5%81.md)
