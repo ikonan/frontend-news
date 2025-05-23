@@ -27,3 +27,5 @@
 [第 12 章. 使用 useLayoutEffect 避免闪烁的用户界面](./12.%E4%BD%BF%E7%94%A8%20useLayoutEffect%20%E9%81%BF%E5%85%8D%E9%97%AA%E7%83%81%E7%9A%84%E7%94%A8%E6%88%B7%E7%95%8C%E9%9D%A2.md)
 
 [第 13 章. React Portal 以及我们为何需要它们](./13.React%20Portal%20%E4%BB%A5%E5%8F%8A%E6%88%91%E4%BB%AC%E4%B8%BA%E4%BD%95%E9%9C%80%E8%A6%81%E5%AE%83%E4%BB%AC.md)
+
+[第 14 章. 客户端数据获取与性能](./14.%20%E5%AE%A2%E6%88%B7%E7%AB%AF%E6%95%B0%E6%8D%AE%E8%8E%B7%E5%8F%96%E4%B8%8E%E6%80%A7%E8%83%BD.md)
