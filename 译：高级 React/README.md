@@ -19,3 +19,5 @@
 [第 8 章. React 上下文（Context）与性能](./08.React%20%E4%B8%8A%E4%B8%8B%E6%96%87%EF%BC%88Context%EF%BC%89%E4%B8%8E%E6%80%A7%E8%83%BD.md)
 
 [第 9 章. Refs：从存储数据到命令式 API](./09.Refs%EF%BC%9A%E4%BB%8E%E5%AD%98%E5%82%A8%E6%95%B0%E6%8D%AE%E5%88%B0%E5%91%BD%E4%BB%A4%E5%BC%8F%20API.md)
+
+[第 10 章. React 中的闭包](./10.React%20%E4%B8%AD%E7%9A%84%E9%97%AD%E5%8C%85.md)
