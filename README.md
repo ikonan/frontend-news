@@ -21,7 +21,9 @@
 ## 译：《Effective TypeScript》
 
 [第 1 章 初识 TypeScript](./%E8%AF%91%EF%BC%9AEffective%20TypeScript/01.%E5%88%9D%E8%AF%86%20TypeScript.md)
+
 [第 2 章 TypeScript 的类型系统](./%E8%AF%91%EF%BC%9AEffective%20TypeScript/02.TypeScript%20%E7%9A%84%E7%B1%BB%E5%9E%8B%E7%B3%BB%E7%BB%9F.md)
+
 [第 3 章 类型推断与控制流分析](./%E8%AF%91%EF%BC%9AEffective%20TypeScript/03.%E7%B1%BB%E5%9E%8B%E6%8E%A8%E6%96%AD%E4%B8%8E%E6%8E%A7%E5%88%B6%E6%B5%81%E5%88%86%E6%9E%90.md)
 
 ## 译：《React 开发者的高级模式》
