@@ -18,6 +18,12 @@
 
 [译：自由实验你的代码—Git worktree](https://github.com/ikonan/frontend-news/blob/main/archive/%E8%AF%91%EF%BC%9A%E8%87%AA%E7%94%B1%E5%AE%9E%E9%AA%8C%E4%BD%A0%E7%9A%84%E4%BB%A3%E7%A0%81%E2%80%94Git%20worktree.md)
 
+## 译：《Effective TypeScript》
+
+[第 1 章 初识 TypeScript](./%E8%AF%91%EF%BC%9AEffective%20TypeScript/01.%E5%88%9D%E8%AF%86%20TypeScript.md)
+[第 2 章 TypeScript 的类型系统](./%E8%AF%91%EF%BC%9AEffective%20TypeScript/02.TypeScript%20%E7%9A%84%E7%B1%BB%E5%9E%8B%E7%B3%BB%E7%BB%9F.md)
+[第 3 章 类型推断与控制流分析](./%E8%AF%91%EF%BC%9AEffective%20TypeScript/03.%E7%B1%BB%E5%9E%8B%E6%8E%A8%E6%96%AD%E4%B8%8E%E6%8E%A7%E5%88%B6%E6%B5%81%E5%88%86%E6%9E%90.md)
+
 ## 译：《React 开发者的高级模式》
 
 [引言：如何阅读本书](./%E8%AF%91%EF%BC%9A%E9%AB%98%E7%BA%A7%20React/00.%E5%A6%82%E4%BD%95%E9%98%85%E8%AF%BB%E6%9C%AC%E4%B9%A6.md)
