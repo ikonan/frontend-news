@@ -28,6 +28,8 @@
 
 [第 4 章 类型设计](./%E8%AF%91%EF%BC%9AEffective%20TypeScript/04.%E7%B1%BB%E5%9E%8B%E8%AE%BE%E8%AE%A1.md)
 
+[第 5 章 不稳定性和 any 类型](./%E8%AF%91%EF%BC%9AEffective%20TypeScript/05.%E4%B8%8D%E7%A8%B3%E5%AE%9A%E6%80%A7%E5%92%8C%20any%20%E7%B1%BB%E5%9E%8B.md)
+
 ## 译：《React 开发者的高级模式》
 
 [引言：如何阅读本书](./%E8%AF%91%EF%BC%9A%E9%AB%98%E7%BA%A7%20React/00.%E5%A6%82%E4%BD%95%E9%98%85%E8%AF%BB%E6%9C%AC%E4%B9%A6.md)
