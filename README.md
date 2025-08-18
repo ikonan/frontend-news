@@ -4,6 +4,9 @@
 
 ## 文章列表
 
+[译：不要过度优化你的优化](https://github.com/ikonan/frontend-news/blob/main/archive/%E8%AF%91%EF%BC%9A%E4%B8%8D%E8%A6%81%E8%BF%87%E5%BA%A6%E4%BC%98%E5%8C%96%E4%BD%A0%E7%9A%84%E4%BC%98%E5%8C%96.md)
+
+
 [译：React 的 TypeScript 知识](https://github.com/ikonan/frontend-news/blob/main/archive/%E8%AF%91%EF%BC%9AReact%20%E7%9A%84%20TypeScript%20%E7%9F%A5%E8%AF%86.md)
 
 [译：整洁代码心理学—为何我们写出混乱的 React 组件](https://github.com/ikonan/frontend-news/blob/main/archive/%E8%AF%91%EF%BC%9A%E6%95%B4%E6%B4%81%E4%BB%A3%E7%A0%81%E5%BF%83%E7%90%86%E5%AD%A6%E2%80%94%E4%B8%BA%E4%BD%95%E6%88%91%E4%BB%AC%E5%86%99%E5%87%BA%E6%B7%B7%E4%B9%B1%E7%9A%84React%E7%BB%84%E4%BB%B6.md)
