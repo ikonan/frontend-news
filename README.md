@@ -4,6 +4,8 @@
 
 ## 文章列表
 
+[译：图文并茂的数据结构参考](https://github.com/ikonan/frontend-news/blob/main/archive/%E8%AF%91%EF%BC%9A%E5%9B%BE%E6%96%87%E5%B9%B6%E8%8C%82%E7%9A%84%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%8F%82%E8%80%83.md)
+
 [译：不要过度优化你的优化](https://github.com/ikonan/frontend-news/blob/main/archive/%E8%AF%91%EF%BC%9A%E4%B8%8D%E8%A6%81%E8%BF%87%E5%BA%A6%E4%BC%98%E5%8C%96%E4%BD%A0%E7%9A%84%E4%BC%98%E5%8C%96.md)
 
 
